@@ -75,7 +75,7 @@ export(.checkMFClasses, .getXlevels, .MFclass, .nknots.smspl,
        tsp, "tsp<-", tsSmooth, TukeyHSD, uniroot, update, var,
        variable.names, varimax, vcov, weighted.mean,
        weighted.residuals, weights, window, "window<-", write.ftable,
-       xtabs, pbirthday, qbirthday)
+       xtabs, pbirthday, qbirthday,splitting_data,slice_time_series)
 
 ## from ctest
 export(ansari.test, bartlett.test, binom.test, chisq.test, cor.test,
